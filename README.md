@@ -1,2 +1,2 @@
 # js-guess-game
-Javascript playground - Guessing game
+Javascript DOM manipulation playground - Guessing game
